@@ -97,7 +97,7 @@ totsteps <- tapply(actdata$steps, actdata$date,sum)
 hist(totsteps,col="red",xlab="Total Steps per Day", 
       ylab="Frequency", main="Histogram of Total Steps taken per day")
 ```
-Note: **for min/max/mean and median calculation, please see the section below...**
+
 
 
 ## Are there differences in activity patterns between weekdays and weekends?

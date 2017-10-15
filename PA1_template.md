@@ -141,7 +141,7 @@ hist(totsteps,col="red",xlab="Total Steps per Day",
 ```
 
 ![](PA1_template_files/figure-html/unnamed-chunk-11-1.png)<!-- -->
-Note: **for min/max/mean and median calculation, please see the section below...**
+
 
 
 ## Are there differences in activity patterns between weekdays and weekends?
